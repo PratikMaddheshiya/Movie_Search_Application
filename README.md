@@ -25,3 +25,6 @@ CSS (Responsive UI)
 🔹 Implement infinite scrolling instead of pagination
 🔹 Add animations for smooth UI transitions
 🔹 Implement keyboard navigation for better accessibility
+
+🚀 Live Demo
+🔗 https://movie-search-application-two.vercel.app/
